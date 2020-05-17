@@ -1,5 +1,5 @@
 # Wjets_condor
-# How to use
+# How to use(slc7)
 ```
 mkdir Wjets
 cd Wjets
