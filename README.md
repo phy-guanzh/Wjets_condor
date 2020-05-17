@@ -3,7 +3,8 @@
 ```
 mkdir Wjets
 cd Wjets
-git clone git@github.com:phy-guanzh/Wjets_condor.git
+cd Wjets_condor
+git clone https://github.com/phy-guanzh/Wjets_condor.git
 mkdir log
 python build_submit.py
 rm build_submit.py
